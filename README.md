@@ -1,3 +1,10 @@
+# Installation
+
+* `yarn`
+* Run `yarn start`
+* Enjoy immensely.
+
+
 # node-exercise
 A little exercise using a Star Wars API [https://swapi.dev/](https://swapi.dev/) and [express.js](https://expressjs.com/)
 

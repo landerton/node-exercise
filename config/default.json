@@ -1,0 +1,11 @@
+{
+  "app": {
+    "name": "start wars data",
+    "port": "8080",
+    "log_level": "info",
+    "show_errors": false
+  },
+  "swapi": {
+    "base_url": "https://swapi.dev/api"
+  }
+}
